@@ -1,0 +1,4 @@
+v20.events.data.microsoft.com
+watson.telemetry.microsoft.com
+web.vortex.data.microsoft.com
+v10.events.data.microsoft.com
