@@ -1,0 +1,28 @@
+# Google Services
+clients4.google.com
+clients2.google.com
+
+# YouTube history
+s.youtube.com
+video-stats.l.google.com
+
+# Google Play
+android.clients.google.com
+
+# Google Keep
+reminders-pa.googleapis.com
+firestore.googleapis.com
+
+# Google Fonts
+gstaticadssl.l.google.com
+
+# Android TV
+redirector.gvt1.com
+
+# TrueWallet
+appboy-images.com
+api2.branch.io
+sdk.iad-03.braze.com
+
+# GTA V Online
+prod.telemetry.ros.rockstargames.com
