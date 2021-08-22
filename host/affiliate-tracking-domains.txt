@@ -1,5 +1,7 @@
 invol.co
+www.invol.co
 c-api-bit.shopeemobile.com
 tracking.shopback.com
-api.pushio.com
+api.pushio.com #cname san.push.io.edgekey.net
+san.push.io.edgekey.net
 zconfig.alibabausercontent.com
