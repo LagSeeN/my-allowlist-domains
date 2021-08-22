@@ -1,0 +1,5 @@
+invol.co
+c-api-bit.shopeemobile.com
+tracking.shopback.com
+api.pushio.com
+zconfig.alibabausercontent.com
